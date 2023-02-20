@@ -20,6 +20,7 @@ button{
     height: 50px;
     border-radius: 25px;
     margin: 4px;
+    box-shadow: 1px -1px white;
 }
 
 #screen {
@@ -35,6 +36,7 @@ button{
     width: 232px;
     display: flex;
     flex-wrap: wrap;
+    ;
 }
 #clear {
     width: 100%;
